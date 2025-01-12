@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.box {
+    width: 350px;
+    height: 220px;
+    background-color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-inline: 20px;
+
+    border-width: 2px;
+    border-color: cyan;
+    border-style: dotted;
+}
+
+.img-fluid {
+    display: block;
+    height: 180px;
+    width: 100%;
+}
